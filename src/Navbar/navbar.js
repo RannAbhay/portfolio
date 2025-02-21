@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "./navbar.css"; 
-import logo from "./logo.jpg";
+import logo from "./logo.png";
 
 const Navbar = ({ setAcceleration }) => {
   const [activeIndex, setActiveIndex] = useState(null);

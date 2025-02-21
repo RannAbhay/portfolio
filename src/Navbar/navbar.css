@@ -34,9 +34,11 @@
 
 .logo{
     position: relative;
-    width: 100px;
+    width: 200px;
     height: auto;
     overflow: hidden;
+    margin-left: 50px;
+    margin-top: 10px;
 }
 
 .logo img{
